@@ -1,0 +1,104 @@
+tech_data
+	accelerator_0
+	accelerator_1
+	accelerator_2
+	accelerator_3
+	act_pwm_ms
+	board_voltage
+	boost_0
+	boost_1
+	boost_2
+	boost_3
+	ecu_0_mode
+	ecu_1_mode
+	cts
+	diesel_pressure
+	eg_temperature1
+	eg_temperature2
+	egt_0
+	egt_1
+	egt_2
+	egt_3
+	egt_4
+	egt_5
+	egt_6
+	egt_7
+	egt_8
+	egt_9
+	egt_10
+	egt_11
+	egt_12
+	egt_13
+	egt_14
+	egt_15
+	egt_err
+	gas_pressure
+	inj_0
+	inj_1
+	inj_2
+	inj_3
+	inj_err
+	ips_0
+	ips_1
+	its_0
+	its_1
+	mode
+	p_lng
+	p_ramp
+	switch
+	t_lng
+	t_ramp
+	throttle_0
+	throttle_1
+	throttle_2
+	throttle_3
+	wbo_0
+	wbo_1
+	
+can
+	accelerator
+	cts
+	cargo_weight
+	engine_percent_torque
+	engine_speed
+	err
+	fuel_lvl
+	odo
+	oil_pressure
+	percent_load
+	speed
+
+dev_data
+	acc_vector
+	gsm_lvl
+	is_motion
+	odo
+	on_board_voltage
+	temper
+	trip_counter
+	
+ext_sensors
+	leak_ch4_red
+	lvl_ch4
+	leak_ch4_percent
+	
+flow_diesel
+	inst
+	inst_f
+	inst_r
+	total
+	total_f
+	total_r
+	
+flow_lng
+	inst
+	total
+	vlt
+	
+gps
+	lat
+	lon
+	speed
+	
+status
+	status
