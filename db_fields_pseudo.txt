@@ -1,0 +1,30 @@
+tech_data
+	accelerator_0*ДППА
+	accelerator_3*ДППА(3)
+	act_pwm_ms* Длительность сигнала актуатора (ШИМ)
+	board_voltage*Напряжение бортсети
+	boost_0*Давление наддува прав. ряд
+	boost_1*Давление наддува лев. ряд
+
+can
+	accelerator*ДППА %
+	engine_percent_torque*Нагрузка на двигатель
+	engine_speed*Обороты двигателя
+	err*Ошибки системы
+	speed*Скорость
+
+dev_data
+	gsm_lvl*Уровень GSM сигнала
+	is_motion*Движение
+	odo*Одометр (по GPS)
+	
+flow_diesel
+	total*Общий расход
+	
+gps
+	lat*Широта
+	lon*Долгота
+	speed*Скорость gps
+	
+status
+	status*Статус

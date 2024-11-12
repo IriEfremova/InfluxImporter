@@ -1,0 +1,30 @@
+tech_data
+	accelerator_0
+	accelerator_3
+	act_pwm_ms
+	board_voltage
+	boost_0
+	boost_1
+	
+can
+	accelerator
+	engine_percent_torque
+	engine_speed
+	err
+	speed
+
+dev_data
+	gsm_lvl
+	is_motion
+	odo
+	
+flow_diesel
+	total
+	
+gps
+	lat
+	lon
+	speed
+	
+status
+	status
